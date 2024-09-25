@@ -1,6 +1,7 @@
 # ÖZELLİKLER
 
 -- HTML ve CSS teknolojilerinden faydalanıldı
+
 -- Js ile dinamik bir yapı oluşturuldu
 
 
